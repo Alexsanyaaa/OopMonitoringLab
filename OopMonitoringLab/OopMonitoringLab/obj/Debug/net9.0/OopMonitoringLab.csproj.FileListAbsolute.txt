@@ -1,0 +1,14 @@
+C:\Users\golov\OneDrive\Рабочий стол\веб\OopMonitoringLab\OopMonitoringLab\obj\Debug\net9.0\OopMonitoringLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\golov\OneDrive\Рабочий стол\веб\OopMonitoringLab\OopMonitoringLab\obj\Debug\net9.0\OopMonitoringLab.AssemblyInfoInputs.cache
+C:\Users\golov\OneDrive\Рабочий стол\веб\OopMonitoringLab\OopMonitoringLab\obj\Debug\net9.0\OopMonitoringLab.AssemblyInfo.cs
+C:\Users\golov\OneDrive\Рабочий стол\веб\OopMonitoringLab\OopMonitoringLab\obj\Debug\net9.0\OopMonitoringLab.csproj.CoreCompileInputs.cache
+C:\Users\golov\OneDrive\Рабочий стол\веб\OopMonitoringLab\OopMonitoringLab\bin\Debug\net9.0\OopMonitoringLab.exe
+C:\Users\golov\OneDrive\Рабочий стол\веб\OopMonitoringLab\OopMonitoringLab\bin\Debug\net9.0\OopMonitoringLab.deps.json
+C:\Users\golov\OneDrive\Рабочий стол\веб\OopMonitoringLab\OopMonitoringLab\bin\Debug\net9.0\OopMonitoringLab.runtimeconfig.json
+C:\Users\golov\OneDrive\Рабочий стол\веб\OopMonitoringLab\OopMonitoringLab\bin\Debug\net9.0\OopMonitoringLab.dll
+C:\Users\golov\OneDrive\Рабочий стол\веб\OopMonitoringLab\OopMonitoringLab\bin\Debug\net9.0\OopMonitoringLab.pdb
+C:\Users\golov\OneDrive\Рабочий стол\веб\OopMonitoringLab\OopMonitoringLab\obj\Debug\net9.0\OopMonitoringLab.dll
+C:\Users\golov\OneDrive\Рабочий стол\веб\OopMonitoringLab\OopMonitoringLab\obj\Debug\net9.0\refint\OopMonitoringLab.dll
+C:\Users\golov\OneDrive\Рабочий стол\веб\OopMonitoringLab\OopMonitoringLab\obj\Debug\net9.0\OopMonitoringLab.pdb
+C:\Users\golov\OneDrive\Рабочий стол\веб\OopMonitoringLab\OopMonitoringLab\obj\Debug\net9.0\OopMonitoringLab.genruntimeconfig.cache
+C:\Users\golov\OneDrive\Рабочий стол\веб\OopMonitoringLab\OopMonitoringLab\obj\Debug\net9.0\ref\OopMonitoringLab.dll

@@ -1,0 +1,20 @@
+[
+  {
+    "ServiceName": "FastService",
+    "TotalRequests": 53,
+    "SuccessfulRequests": 50,
+    "FailedRequests": 3,
+    "AverageLatencyMs": 20.18867924528302,
+    "MaxLatencyMs": 24,
+    "ErrorRate": 0.05660377358490566
+  },
+  {
+    "ServiceName": "SlowService",
+    "TotalRequests": 47,
+    "SuccessfulRequests": 44,
+    "FailedRequests": 3,
+    "AverageLatencyMs": 301.4468085106383,
+    "MaxLatencyMs": 376,
+    "ErrorRate": 0.06382978723404255
+  }
+]
